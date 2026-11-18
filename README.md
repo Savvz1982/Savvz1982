@@ -37,6 +37,19 @@ Twenty-two years across language intelligence, technical exploitation, analytica
 
 **BSc (Hons)** — Intelligence and Cyber Security, Staffordshire University
 
+### APEX forensic software initiatives — development
+
+![Illustrative forensic software workflow map, not a product screenshot](assets/forensic-workflows.svg)
+
+*Illustrative workflow diagram. Neither product is being presented as a released or agency-approved tool.*
+
+I direct requirements and verification priorities for investigator-focused applications developed with AI-assisted engineering. The underlying repositories are private; these case studies share **only high-level, non-sensitive information** and distinguish engineering tests from professional field acceptance.
+
+- **[DriveSeal — evidence delivery and independent verification](case-studies/driveseal.md):** task-oriented Windows media preparation, physical-device safeguards, verification and truthful handoff state. Native Windows screenshot publication remains pending.
+- **[AI Scanner Darkly — examiner-led media authenticity review](case-studies/ai-scanner-darkly.md):** local-first Windows forensic UI, provenance and examiner review, with real empty-state Qt captures prepared for private review. No independent detector-accuracy claim.
+
+**Visual status:** The diagram above is *not an application screenshot*. Real product captures will appear only after image provenance, privacy and release-rights checks.
+
 ### Work and projects
 
 **Investigative and AI evaluation studies — private review stage**
