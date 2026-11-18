@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="468" viewBox="0 0 1200 468" role="img" aria-labelledby="title desc">
+<title id="title">Forensic software workflow studies: DriveSeal and AI Scanner Darkly</title>
+<desc id="desc">Illustrative architecture flow, not an application screenshot. DriveSeal follows selection, physical identity checks, preparation or delivery, and independent verification. AI Scanner Darkly follows local image selection, provenance and structure inspection, examiner review, and reporting.</desc>
+<rect width="1200" height="468" rx="22" fill="#0b1522"/>
+<rect x="24" y="24" width="1152" height="420" rx="16" fill="#111f30" stroke="#31465a"/>
+<text x="56" y="74" fill="#e9f2f6" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">Engineering for trustworthy evidence</text>
+<text x="57" y="103" fill="#b6c8d4" font-family="Arial,Helvetica,sans-serif" font-size="14">Two owner-directed forensic software initiatives · Private development · No real case data</text>
+<line x1="56" y1="123" x2="1144" y2="123" stroke="#354a5c"/>
+<rect x="54" y="143" width="534" height="231" rx="12" fill="#14283b" stroke="#4f748b"/>
+<rect x="612" y="143" width="534" height="231" rx="12" fill="#14283b" stroke="#4f748b"/>
+<text x="77" y="181" fill="#e7f4fa" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">DriveSeal</text>
+<text x="77" y="208" fill="#b9c8d2" font-family="Arial,Helvetica,sans-serif" font-size="14">Controlled Windows evidence preparation and delivery</text>
+<text x="635" y="181" fill="#e7f4fa" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">AI Scanner Darkly</text>
+<text x="635" y="208" fill="#b9c8d2" font-family="Arial,Helvetica,sans-serif" font-size="14">Examiner-led image authenticity and provenance review</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+<rect x="75" y="243" width="110" height="61" rx="8" fill="#224c5f"/><text x="130" y="280" fill="#eefaff">Select task</text>
+<path d="M190 274 h24 l-6 -6 m6 6 l-6 6" fill="none" stroke="#d1aa7e" stroke-width="2"/>
+<rect x="220" y="243" width="110" height="61" rx="8" fill="#224c5f"/><text x="275" y="268" fill="#eefaff">Check</text><text x="275" y="285" fill="#eefaff">identity</text>
+<path d="M335 274 h24 l-6 -6 m6 6 l-6 6" fill="none" stroke="#d1aa7e" stroke-width="2"/>
+<rect x="365" y="243" width="93" height="61" rx="8" fill="#224c5f"/><text x="411" y="268" fill="#eefaff">Controlled</text><text x="411" y="285" fill="#eefaff">operation</text>
+<path d="M463 274 h11 l-6 -6 m6 6 l-6 6" fill="none" stroke="#d1aa7e" stroke-width="2"/>
+<rect x="481" y="243" width="91" height="61" rx="8" fill="#224c5f"/><text x="526" y="268" fill="#eefaff">Independent</text><text x="526" y="285" fill="#eefaff">verify</text>
+<rect x="632" y="243" width="109" height="61" rx="8" fill="#24455a"/><text x="686" y="268" fill="#eefaff">Select</text><text x="686" y="285" fill="#eefaff">media</text>
+<path d="M745 274 h20 l-6 -6 m6 6 l-6 6" fill="none" stroke="#d1aa7e" stroke-width="2"/>
+<rect x="770" y="243" width="107" height="61" rx="8" fill="#24455a"/><text x="823" y="268" fill="#eefaff">Inspect</text><text x="823" y="285" fill="#eefaff">provenance</text>
+<path d="M883 274 h19 l-6 -6 m6 6 l-6 6" fill="none" stroke="#d1aa7e" stroke-width="2"/>
+<rect x="907" y="243" width="108" height="61" rx="8" fill="#24455a"/><text x="961" y="268" fill="#eefaff">Examiner</text><text x="961" y="285" fill="#eefaff">review</text>
+<path d="M1019 274 h17 l-6 -6 m6 6 l-6 6" fill="none" stroke="#d1aa7e" stroke-width="2"/>
+<rect x="1041" y="243" width="86" height="61" rx="8" fill="#24455a"/><text x="1084" y="268" fill="#eefaff">Explain</text><text x="1084" y="285" fill="#eefaff">results</text>
+</g>
+<text x="77" y="343" fill="#b9c8d2" font-family="Arial,Helvetica,sans-serif" font-size="13">Safety-first workflows; physical-media acceptance remains gated.</text>
+<text x="635" y="343" fill="#b9c8d2" font-family="Arial,Helvetica,sans-serif" font-size="13">Native Qt captures verified; model accuracy is not established here.</text>
+<text x="57" y="411" fill="#92aebe" font-family="Arial,Helvetica,sans-serif" font-size="13">ILLUSTRATIVE WORKFLOW DIAGRAM — not a screenshot, accreditation, field-test result, or production release.</text>
+</svg>
